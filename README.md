@@ -5,4 +5,4 @@ This project analyzes and predicts salaries of Texas state employees
 - Identified salary outliers and wage differences  
 - Built regression models for salary prediction
   
-# Tools:** Python, Pandas, NumPy, Scikit-learn
+# Tools : Python, Pandas, NumPy, Scikit-learn
